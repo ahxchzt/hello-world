@@ -1,2 +1,2 @@
 # hello-world
-Hello, github
+Hello, My name is Zhongtian Hu, a noob for computer science.
